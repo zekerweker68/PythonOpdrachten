@@ -1,0 +1,5 @@
+getal1 = input("Typ een getal:")
+getal2 = input("Typ een tweede getal:")
+getal1 = int(getal1)
+getal2 = int(getal2)
+print(getal1 + getal2)
