@@ -3,4 +3,4 @@ x = "5"
 y = 2
 print(x + y)
 
-#Het geeft een error aan dus ik heb het fout :(
+#Het geeft een error dus ik heb het fout :(
