@@ -1,0 +1,10 @@
+getal1str = input('typ je eerste getal:')
+getal1 = int(getal1str)
+getal2str = input('typ je tweede getal:')
+getal2 = int(getal2str)
+
+print(getal1 + getal2)
+print(getal1 - getal2)
+print(getal1 * getal2)
+print(getal1 // getal2)
+print(getal1 / getal2)
