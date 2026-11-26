@@ -1,0 +1,5 @@
+lengte = input("Typ een lengte: ")
+lengte = int(lengte)
+breedte = input("Typ een breedte: ")
+breedte = int(breedte)
+print(f"oppervlakte = {breedte * lengte}")
