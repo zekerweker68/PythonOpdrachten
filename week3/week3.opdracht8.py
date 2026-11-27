@@ -3,3 +3,9 @@
 #de cijfer voldoet aan bijde if statements
 #daarom kan er soms 2 regels geprint worden doordat de cijfer
 #aan 2 if statements kan voldoen.
+
+cijfer = 8
+if cijfer >= 5.5:
+    print("Voldoende")
+if cijfer >= 8:
+    print("Goed")
